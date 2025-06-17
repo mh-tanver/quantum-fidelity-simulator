@@ -1,6 +1,4 @@
 # quantum-fidelity-simulator
-Simulating quantum states under noise, apply error correction, and predict fidelity outcomes using ML models. Deploy an interactive dashboard for experimentation and visualization.
-📝 Repository Description
 
 This project explores the simulation of noisy quantum circuits and the application of quantum error correction techniques to improve fidelity. Using Qiskit, we model depolarizing noise and evaluate fidelity before and after correction. We then apply machine learning techniques to predict fidelity outcomes based on circuit and noise parameters. An interactive dashboard will allow users to simulate quantum behavior, visualize results, and experiment with predictive models. This repository serves both as a scientific exploration and a portfolio demonstration of quantum computing, data science, and ML engineering skills.
 
