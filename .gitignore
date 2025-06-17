@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
+
+# Data files
+data/raw/
+data/processed/
+
+# Streamlit cache
+.streamlit/
+
+# OS/Editor files
+.DS_Store
+*.swp
+*.bak
+.vscode/
